@@ -24,4 +24,5 @@ mailersend==0.5.8
 passlib==1.7.4
 argon2-cffi==23.1.0
 fastapi-sessions==0.3.2
+ray==2.40.0
 
